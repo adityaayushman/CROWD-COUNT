@@ -25,7 +25,7 @@ Requires Python 3.10 or later.
 
 ```bash
 python -m venv .venv
-.venv\Scriptsctivate          # macOS/Linux: source .venv/bin/activate
+.venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
 python run_app.py --source path/to/video.mp4
 ```
